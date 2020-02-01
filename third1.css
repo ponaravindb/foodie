@@ -1,0 +1,50 @@
+.header{
+    overflow: hidden;
+    background-color:red;
+    padding: 20px 10px;
+}
+*{
+    border:0;
+    padding:0;
+    margin:0;
+    outline:none;
+}
+
+.header-right{
+    float:right;
+    color:whitesmoke;
+
+    font-size:50px;
+}   
+.hot{
+    display: flex;
+}
+.restaurant detail{
+    flex-basis:75%;
+    color: white;
+    background-color: black;
+    padding: 10px;
+    align
+    align-items:center;
+}
+.menu{
+    flex-basis: 75%;
+    position:sticky;
+    color: black;
+}
+.items{
+    border: 5px double red;
+    color:rosybrown ;
+    padding:50px;
+}
+.add{
+    float:right;
+    margin-top: 10px;
+    text-align: center;
+    padding:10px;
+
+}
+.cart{
+    flex-basis: 25%;
+    background-color: silver;
+}

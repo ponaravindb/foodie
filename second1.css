@@ -1,0 +1,43 @@
+.header{
+    overflow: hidden;
+    background-color:red;
+    padding: 20px 10px;
+    h4
+    {
+        
+        
+        text-align: center;
+    }
+
+}
+*{
+    border:0;
+    padding:0;
+    margin:0;
+    outline:none;
+}
+.hot{
+    display:flex;
+}
+img{
+    max-width:100%;
+
+        
+
+    
+
+}
+
+.user{
+    border-radius: 50%;
+}
+.header-center{
+    font-size: 100px;
+    font-style: inherit;
+}
+.header-right{
+    float:right;
+    color:whitesmoke;
+
+    font-size:50px;
+}
